@@ -1,8 +1,6 @@
 #### Project application of dimensionality reduction and cluster analysis
 #### Marcos Torres Vivanco
 
-setwd("C:/Users/Marcos/Dropbox/trabajo/ejemplo en R")
-
 library(readr) ## read data
 library(scatterplot3d) ## 3D graph
 library(Rtsne) ## t-sne algorithm
