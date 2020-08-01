@@ -1,2 +1,2 @@
 # tsne-example
-Dimensionality reduction with TSNE to find cluster.
+Dimensionality reduction with TSNE to find clusters.
